@@ -11,8 +11,6 @@ spring:
 
 spring:
   profiles: default
-  application:
-    name: order-service
   datasource:
     url: jdbc:mysql://localhost:3306/test
     driver-class-name: com.mysql.jdbc.Driver
