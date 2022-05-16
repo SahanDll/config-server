@@ -22,7 +22,7 @@ spring:
     database-platform: org.hibernate.dialect.H2Dialect
 
 test:
-  name: My-boot-new
+  name: My-boot-old
 
 ---
 
